@@ -1,0 +1,9 @@
+.image {
+    height: 90%;
+    width: 90%;
+    cursor: pointer;
+}
+
+.image:hover {
+    opacity: 0.8;
+}

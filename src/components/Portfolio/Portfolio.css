@@ -1,0 +1,12 @@
+.container {
+    width: 950px;
+    max-height: 1600px;
+} 
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    max-height: 1600px;
+    justify-content: space-around;
+    /*justify-content:flex-start;*/
+}
